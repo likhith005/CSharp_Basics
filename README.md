@@ -1,6 +1,6 @@
 # CSharp_Basics
 
-This repository contains fundamental C# programming concepts and examples. Each folder in this repository focuses on a specific C# concept and contains code examples and explanations. I created this repository to help me grasp the fundamental concepts of C# programming through clear and practical examples and making it easy to understand everything before my interview.
+This repository contains fundamental C# programming concepts and examples. Each folder in this repository focuses on a specific C# concept and examples. I created this repository to help me grasp the fundamental concepts of C# programming through clear and practical examples and making it easy to understand everything before my interview.
 
 ## How to Use
 
